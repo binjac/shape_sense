@@ -1,6 +1,6 @@
 # Shape Sense  
 
-** Computer vision movement tracking and workout optimization.**  
+**Computer vision movement tracking and workout optimization.**  
 
 ## 🚀 About Shape Sense  
 Shape Sense is an AI-driven fitness app that analyzes your workout in real time. It tracks reps, evaluates posture, and suggests improvements—helping you train smarter and get better results.  
